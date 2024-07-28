@@ -9,7 +9,7 @@
 
 
 # 💫 About Me:
-Hello, I am Pushpa Mahto. I am a passionate developer skilled in communication, attention to detail, writing efficient code, and responsive design. I am keen to learn new tech stacks and continuously improve my abilities.
+Hello, I am Pushpa Mahto. I am a passionate web developer skilled in  writing efficient code, communication, attention to detail and responsive design. I am keen to learn new tech stacks and continuously improve my abilities.
 
 </div>
 
