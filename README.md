@@ -1,5 +1,5 @@
 <h2 align="center">Welcome 👋 to My Github Profile</h2> 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines= I'm Pushpa Mahto " alt="Typing SVG" /></a> 
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines= I'm Pushpa Mahto " alt="Typing SVG" /></a> 
 
 <div align="center">
 
@@ -12,7 +12,7 @@ Hello, I am Pushpa Mahto. I am a passionate developer skilled in communication, 
 </div>
 
 
-
+<div align="center">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pushpa-mahto-356035287/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Pushpa-Mahto) 
@@ -24,7 +24,12 @@ Hello, I am Pushpa Mahto. I am a passionate developer skilled in communication, 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pushpamahto&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpamahto&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pushpamahto&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
