@@ -39,7 +39,7 @@ Hello, I am Pushpa Mahto. I am a passionate web developer skilled in  writing ef
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=pink" alt="Portfolio">
   </a>
   <a href="https://codepen.io/https://codepen.io/Pushpa-Mahto" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Codepen">
+    <img src="https://img.shields.io/badge/Codepen-%2312100E.svg?&style=for-the-badge&logo=codepen.to&logoColor=white" alt="Codepen">
   </a>
 </p>
 
