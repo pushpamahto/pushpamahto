@@ -28,10 +28,31 @@ Hello, I am Pushpa Mahto. I am a passionate web developer skilled in  writing ef
 
 
 
+
+<h2 align="center">Let's Connect</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/pushpa-mahto-356035287/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://pushpa-mahto.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=pink" alt="Portfolio">
+  </a>
+  <a href="https://codepen.io/https://codepen.io/Pushpa-Mahto" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=white" alt="Codepen">
+  </a>
+</p>
+
+
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pushpamahto&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pushpamahto&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpamahto&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+
 
 
 
