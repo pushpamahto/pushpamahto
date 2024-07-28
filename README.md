@@ -1,7 +1,17 @@
- https://profile-counter.glitch.me/pushpamahto/count.svg
+<h2 align="center">Welcome 👋 to My Github Profile</h2> 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines= I'm Pushpa Mahto " alt="Typing SVG" /></a> 
+
+<div align="center">
+
+<h3> Github Profile 👀</h3>  <img src="https://profile-counter.glitch.me/pushpamahto/count.svg" height="50" alt="Profile Views"  />
+
 
 # 💫 About Me:
 Hello, I am Pushpa Mahto. I am a passionate developer skilled in communication, attention to detail, writing efficient code, and responsive design. I am keen to learn new tech stacks and continuously improve my abilities.
+
+</div>
+
+
 
 
 ## 🌐 Socials:
