@@ -1,5 +1,4 @@
-![Profile Views](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/pushpamahto/view-counter-repo/main/views.json)
-
+curl https://profile-counter.glitch.me/pushpamahto/count.svg
 
 # 💫 About Me:
 Hello, I am Pushpa Mahto. I am a passionate developer skilled in communication, attention to detail, writing efficient code, and responsive design. I am keen to learn new tech stacks and continuously improve my abilities.
