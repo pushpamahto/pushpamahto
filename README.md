@@ -8,11 +8,14 @@
 <h3> Github Profile 👀</h3>  <img src="https://profile-counter.glitch.me/pushpamahto/count.svg" height="50" alt="Profile Views"  />
 
 
-# 💫 About Me:
+
+<h2 >💫 About Me</h2>
 Hello, I am Pushpa Mahto. I am a passionate web developer skilled in  writing efficient code, communication, attention to detail and responsive design. I am keen to learn new tech stacks and continuously improve my abilities.
 
 </div>
 
+ </br>
+ </br>
 
 <div align="center">
 
@@ -43,7 +46,7 @@ Hello, I am Pushpa Mahto. I am a passionate web developer skilled in  writing ef
 
 
 ![](https://github-readme-stats.vercel.app/api?username=pushpamahto&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pushpamahto&theme=radical&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pushpamahto&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pushpamahto&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
@@ -52,10 +55,16 @@ Hello, I am Pushpa Mahto. I am a passionate web developer skilled in  writing ef
 
 
 
-## 🏆 GitHub Trophies
+## 
+<h2 >🏆 GitHub Trophies</h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=pushpamahto&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 </div>
+
+<h2 align="center">Thanks for visiting my Github Profile.....</h2>
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
