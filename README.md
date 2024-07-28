@@ -12,7 +12,7 @@
 <h2 >💫 About Me</h2>
 <img align="right" height="150" src="https://media.tenor.com/s-rwhJc8bfQAAAAj/love-cute.gif"  />
 <p align="center">
-Hello, I am Pushpa Mahto. I am a passionate web developer skilled in  writing efficient code, communication,</br> attention to detail and responsive design. I am keen to learn new tech stacks and continuously improve my abilities.
+Hello, I am Pushpa Mahto. I am a passionate web developer skilled in  writing efficient code, communication, attention to detail and responsive design. I am keen to learn new tech stacks and continuously improve my abilities.
 </p>
 
 </div>
