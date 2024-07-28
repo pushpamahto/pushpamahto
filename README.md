@@ -22,6 +22,8 @@ Hello, I am Pushpa Mahto. I am a passionate web developer skilled in  writing ef
 
 <div align="center">
 
+</br> 
+</br>
 
 <h2 align="center" >💻 Tech Stack</h2>
 
