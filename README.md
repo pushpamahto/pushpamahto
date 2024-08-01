@@ -53,7 +53,7 @@ Hello, I am Pushpa Mahto. I am a passionate web developer skilled in  writing ef
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/pushpa-mahto-356035287/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://pushpa-mahto.netlify.app/" target="_blank">
+  <a href="https://portfolio-final-fsd.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?&style=for-the-badge&logo=dev.to&logoColor=pink" alt="Portfolio">
   </a>
   <a href="https://codepen.io/https://codepen.io/Pushpa-Mahto" target="_blank">
